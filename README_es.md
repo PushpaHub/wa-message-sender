@@ -1,6 +1,9 @@
 # WhatsApp Message Sender
 [Read in English](README_en.md)
 
+<img src="Banner.jpg" alt="Banner" style="width: 100%;">
+
+
 ---
 
 ## **Descripción del Proyecto**

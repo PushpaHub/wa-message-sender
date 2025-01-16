@@ -1,6 +1,9 @@
 # WhatsApp Message Sender
 [Leer en Español](README_es.md)
 
+<img src="Banner.jpg" alt="Banner" style="width: 100%;">
+
+
 ## Description
 This program automates the process of sending messages on WhatsApp using Selenium WebDriver and Java. It uses a Chrome browser with a persistent user profile and reads contact information and message templates from external files.
 
