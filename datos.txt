@@ -1,22 +1,18 @@
-# Ruta de la foto
-C:\WaMessageFotos\AnandaLogo.png
+# Ruta de la foto o video a enviar
+C:/path/to/image.jpg
 
-# Archivo Excel
-C:\Documents\Proyectos\2024_12_mis_mensajes_wa\wa_messages_java\contactosPruebas.xlsx
+# Ruta del archivo Excel con contactos
+C:/path/to/contacts.xlsx
 
-# Saludos
-¡Hola, %NOMBRE%! ¿Cómo estás?
-¡Buenas, %NOMBRE%! ¿Qué tal todo?
-¡Hey, %NOMBRE%! Espero que estés teniendo un gran día!
+# Lista de saludos (uno por línea)
+Hola %NOMBRE%
+Buenas %NOMBRE%
 
-# Mensaje central
-Te comparto la noticia.
+# Cuerpo del mensaje (puede incluir varias líneas)
+Este es un mensaje automatizado enviado desde un programa en Java.
 
-Estoy probando este programa 💻 para enviar mensajes automáticos. Ya estoy en la última fase, para que se pueda usar sin tocar el código. 😊💻
+Puede tener varias líneas y emojis 🌻
 
-¡Gracias por tu paciencia con todos los mensajes que te estoy enviando! 🙏🥰
-
-# Despedidas
-¡Que tengas un excelente día!
-Nos vemos pronto, ¡cuídate!
-Un abrazo, ¡nos hablamos luego!
+# Lista de despedidas (una por línea)
+Saludos cordiales
+Atentamente
