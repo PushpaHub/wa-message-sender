@@ -99,22 +99,19 @@ Debe contener los siguientes encabezados:
 
 ---
 
-## **Consideraciones**
-- **Privacidad y Ética:** Asegúrate de tener consentimiento para enviar mensajes automatizados.
-- **Evita Bloqueos:** Implementa intervalos aleatorios entre mensajes para evitar restricciones de WhatsApp.
-- **Resolución de Errores:**
-  - Asegúrate de que las rutas en el archivo `datos.txt` sean correctas.
-  - Verifica que el archivo Excel tenga el formato adecuado.
-  - Si no se carga el perfil de Chrome, revisa la ruta de `user-data-dir`.
+## Solución de problemas
+- **Mensajes no entregados**:
+  - Asegúrate de que los números de teléfono estén formateados correctamente, incluyendo el código de país.
+
+- **Problemas con el navegador**:
+  - Verifica que la versión de ChromeDriver coincida con la versión del navegador Chrome instalado.
+
+- **Errores de archivos**:
+  - Verifica las rutas en el archivo de texto y asegúrate de que el formato del archivo Excel sea correcto.
 
 ---
 
-## **Posibles Mejoras Futuras**
-- Soporte para múltiples navegadores (Firefox, Edge).
-- Interfaz gráfica para simplificar la configuración.
-- Gestión de errores más robusta y registros detallados.
-
----
-
-## **Contacto**
-Para dudas o sugerencias, puedes escribir a [tu_email@example.com].
+## Notas
+- Mantén tu navegador Chrome actualizado.
+- Usa una cuenta de WhatsApp dedicada para pruebas para evitar posibles bloqueos.
+- Asegúrate de cumplir con los términos de servicio de WhatsApp al utilizar esta herramienta.
