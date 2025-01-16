@@ -1,0 +1,22 @@
+# Ruta de la foto
+C:\WaMessageFotos\AnandaLogo.png
+
+# Archivo Excel
+C:\Documents\Proyectos\2024_12_mis_mensajes_wa\wa_messages_java\contactosPruebas.xlsx
+
+# Saludos
+¡Hola, %NOMBRE%! ¿Cómo estás?
+¡Buenas, %NOMBRE%! ¿Qué tal todo?
+¡Hey, %NOMBRE%! Espero que estés teniendo un gran día!
+
+# Mensaje central
+Te comparto la noticia.
+
+Estoy probando este programa 💻 para enviar mensajes automáticos. Ya estoy en la última fase, para que se pueda usar sin tocar el código. 😊💻
+
+¡Gracias por tu paciencia con todos los mensajes que te estoy enviando! 🙏🥰
+
+# Despedidas
+¡Que tengas un excelente día!
+Nos vemos pronto, ¡cuídate!
+Un abrazo, ¡nos hablamos luego!
